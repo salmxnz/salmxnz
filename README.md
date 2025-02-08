@@ -10,7 +10,7 @@ I'm a **Software Engineering student at the University of Mauritius** (2nd year)
 - **Frontend:** React (Vite, CRA, Next.js), React Native, Flutter
 - **Backend:** Node.js, Express, Firebase, PostgreSQL, MySQL, PHP
 - **Full-Stack:** MERN (MongoDB, Express, React, Node.js)
-- **Other Languages & Tools:** Java, C++, Python, HTML, CSS, JavaScript, jQuery, Ajax, Knex, Git, SQL
+- **Other Languages & Tools:** Java, C++, Python, HTML, CSS, JavaScript, jQuery, Ajax, Knex, Git, SQL, TailwindCSS
 - **Still Learning:** Angular, Spring Boot, ASP.NET, .NET Framework, C#
 
 ---
