@@ -10,7 +10,7 @@ I'm a **Software Engineering student at the University of Mauritius** (2nd year)
 - **Frontend:** React (Vite, CRA, Next.js), React Native, Flutter
 - **Backend:** Node.js, Express, Firebase, PostgreSQL, MySQL, PHP
 - **Full-Stack:** MERN (MongoDB, Express, React, Node.js)
-- **Other Languages & Tools:** Java, C++, Python, HTML, CSS, JavaScript, jQuery, Ajax, Knex, Git, SQL, TailwindCSS
+- **Other Languages & Tools:** Java, C++, Python, HTML, CSS, JavaScript, jQuery, Knex, Git, SQL, TailwindCSS
 - **Still Learning:** Angular, Spring Boot, ASP.NET, .NET Framework, C#
 
 ---
@@ -26,7 +26,7 @@ Developed a **lottery system for companies** at the UOM Career Fair using **Reac
 An AI-powered **plant identification app** using React Native and TensorFlow Lite, allowing users to snap a photo of a plant and get instant classification results.
 
 #### 🛍 **E-commerce Website (PostgreSQL & Node.js)**  
-Built an e-commerce website using **PostgreSQL (neon.tech)** and a **Node.js backend**, handling product listings and database interactions with Knex.
+Built an e-commerce website using **PostgreSQL (neon.tech)** and a **Node.js backend**, handling product listings and database interactions with Knex and REST Api.
 
 ---
 
