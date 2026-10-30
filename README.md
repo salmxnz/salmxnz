@@ -26,8 +26,8 @@ I'm a Salesforce consultant and full-stack software engineer from Mauritius. I t
 | --- | --- | --- |
 | 🏢 Founder | Noralux Solutions Ltd | Present |
 | ☁️ Salesforce Consultant | Nexavenu | Apr 2026 – Present |
-| 🚀 Founding Engineer | Unscripted | Aug 2026 – Oct 2026 |
-| 🚀 Founding Engineer | Gacks Consulting | |
+| 🚀 Founding Engineer | Unscripted | Aug 2026 – Present |
+| 🚀 Founding Engineer | Gacks Consulting | Aug 2026 - Present |
 | 💻 Full-Stack Developer (Angular, Spring Boot) | TechQuest Ltd | Jun 2025 – Mar 2026 |
 | 💻 Full-Stack Developer | UoM Computer Club | Sep 2024 – Jun 2026 |
 | 🧑‍💻 Software Developer Intern (React, Node.js, PostgreSQL) | Rogers Capital | Oct 2024 – Dec 2024 |
